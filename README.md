@@ -14,7 +14,7 @@ Go to git bash
 Go to terminal
 
 ```
-cd /path-to-your-repo/ (ex: cd Documents)
+cd /path-to-your-repo/ (ex: cd C:\Apache\htdocs  for windows or cd ~/Library/WebServer/Documents for Mac or linux)
 git clone https://github.com/sushruthreddygade/ituNetworkBuilders-ui.git
 git status
 cd ituNetworkBuilders-ui/
